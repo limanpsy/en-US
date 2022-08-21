@@ -1,4 +1,5 @@
 # Man Li 
+![](./me.png)
 + Faculty of Psychology, 
 + Tianjin Normal University
 + 393 Binshui West Road, 
@@ -59,20 +60,20 @@
 20. Shao, S., **Li, M.**, Du, W., Shao, F., & Wang, W.\* (2014). Galanthamine, an acetylcholine inhibitor, prevents prepulse inhibition deficits induced by adolescent social isolation or mk-801 treatment. Brain Research, 1589(1589), 105-111. 
 21. Xue, X., Shao, S., **Li, M.**, Feng, S., & Wang, W.\* (2013). Maternal separation induces alterations of serotonergic system in different aged rats. Brain Research Bulletin, 95(6), 15-20.
 22. Xue, X., **Li, M.**, Wang, W., & Feng, S.\* (2013). The animal model and neurobiological mechanisms of maternal separation. Advances in Psychological Science, 21(6), 990-998.
-
+---
 ## Book chapters and Other Publications
 1. **Li, M.**, Xu, H., Li, L.(2021). A Psychological Cognition and Questionnaire Test Platform Based On Wechat program(V1.0). Software Copyright.
 2. **Li, M.**, Xu, Z.(2022). A Chinese Sentiment Analysis platform in Wechat Program(V1.0). Software Copyright.
 3. **Li, M.**, Yang, H., Xu, Z. (2021). A Predictive System For Psychological resilience Based On Text Analysis. Patent
 4. **Li, M.**, Wang, W. The Psychology of Emotion. People's Medical Publishing House. Chapter four: the physiological mechanism of emotion.
-
+---
 ## Manuscripts in Preparation
 1. **Li, M.**, He, F., Qiu, L., Lan, Q., Zhang, C., Wang, L. (2022). Parasympathetic activity and mental health In Chinese adolescents: the role of parental migration
 2. **Li, M.**, Xu, T., **Li, M.**, Lan, Q., Zhang, C., Wang, L. (2022). Negative family expressiveness and adolescents’ problems: the role of emotion regulation and RSA
 3. **Li, M.**, Zhang, J., Wang, R., Xu, Z., Yang, H. (2022). Mental health of post-pandemic college freshmen: the role of childhood adversity, sense of security, and friendship quality.
 4. **Li, M.**,Yuan, Y., He, X., Xu, Z. (2022). The relationship between mobile phone addiction and time management disposition among college students: multiple mediators of sleep quality and cognitive flexibility 
 5. **Li, M.**, Yuan, Y., He, F., Duan, W., Zhang, C., Wang, L. (2022). Developmental changes in children's academic achievement in the context of COVID-19: the role of family and individual traits.
-
+---
 ## Presentations
 1. **Li, M.**, Xu, T., Zhang, L., Wang, L. (2022).Negative family expressiveness and adolescents’ problems: the role of emotion regulation and RSA. The 7th National Conference on Emotional and Health Psychology. China, Xiamen
 2. **Li, M.**, Song, R., Wang, L.(2021).The relationship between the autonomic system and individuals’ resilience: the moderated effect of developmental stage. The 20th World Congress of Psychophysiology (IOP 2021). China, Chengdu
