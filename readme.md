@@ -67,11 +67,14 @@
 15. Du W., **Li, M.**, Zhou H., Shao, F., & Wang, W.\* (2021). Alteration of the PKA-CREB cascade in the mPFC accompanying prepulse inhibition deficits: evidence from adolescent social isolation and chronic SKF38393 injection during early adolescence. Behavioural Pharmacology.
 16. Sun L., Min L., **Li, M.**, & Shao, F.\* (2021). Juvenile social isolation leads to schizophrenia-like behaviors via excess lactate production by astrocytes. Brain Research Bulletin. 174, 240-249.
 17. Pang, K., Jiang, R., ...... **Li, M.**, ...... Guo, W., & Lu, B.\* (2021). An App knock-in rat model for Alzheimer’s disease exhibiting Aβ and tau pathologies, neuronal death and cognitive impairments. Cell Research, 0:1-19.
-18. Wu, J., Yu, C., Tan, Y., Hou, Z., **Li, M.**, Shao, F., & Lu, X.\* (2015). Effects of prenatal exposure to silver nanoparticles on spatial cognition and hippocampal neurodevelopment in rats. Environmental research, 138, 67-73.
-19. Wang, Q., **Li, M.**, Wei, D., Feng, S., & Wang, W.\* (2015). The different effects of maternal separation on spatial learning and reversal learning in rats. Behavioural Brain Research, 280(280), 16-23. 
-20. Shao, S., **Li, M.**, Du, W., Shao, F., & Wang, W.\* (2014). Galanthamine, an acetylcholine inhibitor, prevents prepulse inhibition deficits induced by adolescent social isolation or mk-801 treatment. Brain Research, 1589(1589), 105-111. 
-21. Xue, X., Shao, S., **Li, M.**, Feng, S., & Wang, W.\* (2013). Maternal separation induces alterations of serotonergic system in different aged rats. Brain Research Bulletin, 95(6), 15-20.
-22. Xue, X., **Li, M.**, Wang, W., & Feng, S.\* (2013). The animal model and neurobiological mechanisms of maternal separation. Advances in Psychological Science, 21(6), 990-998.
+18. Sun L., Min L., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2018). Transcriptomic analysis reveals oxidative phosphorylation activation in an adolescent social isolation rat model. Brain Research Bulletin,142,304-312.
+19. Sun L., Min L., Zhou H., **Li, M.**, Shao, S., Shao, F., & Wang, W. (2017). Adolescent social isolation affects schizophrenia-like behavior and astrocyte biomarkers in the PFC of adult rats. Behavioural Brain Research, 333(30), 258-266.
+20. Wang, Q., Wang, W., **Li, M.**, Wei, D. U., & Feng, S. (2016). The effects of trk b inhibition in the m pfc on cognitive function and bdnf expression in the hippocampus of rats. Acta Psychologica Sinica, 48(5), 509.
+21. Wu, J., Yu, C., Tan, Y., Hou, Z., **Li, M.**, Shao, F., & Lu, X.\* (2015). Effects of prenatal exposure to silver nanoparticles on spatial cognition and hippocampal neurodevelopment in rats. Environmental research, 138, 67-73.
+22. Wang, Q., **Li, M.**, Wei, D., Feng, S., & Wang, W.\* (2015). The different effects of maternal separation on spatial learning and reversal learning in rats. Behavioural Brain Research, 280(280), 16-23. 
+23. Shao, S., **Li, M.**, Du, W., Shao, F., & Wang, W.\* (2014). Galanthamine, an acetylcholine inhibitor, prevents prepulse inhibition deficits induced by adolescent social isolation or mk-801 treatment. Brain Research, 1589(1589), 105-111. 
+24. Xue, X., Shao, S., **Li, M.**, Feng, S., & Wang, W.\* (2013). Maternal separation induces alterations of serotonergic system in different aged rats. Brain Research Bulletin, 95(6), 15-20.
+25. Xue, X., **Li, M.**, Wang, W., & Feng, S.\* (2013). The animal model and neurobiological mechanisms of maternal separation. Advances in Psychological Science, 21(6), 990-998.
 
 
 ---
