@@ -20,21 +20,21 @@
 + Human Anatomy and Physiology
 + General Psychology
 + Physiological Psychology
-
+---
 ## Research Interests
 + Early life experience effects (such as child-parent separation, parental mental illness, school bullying) on biological (eg: HPA axis) and behavioral functioning in adolescents 
 + The Neuroimmunological mechanisms of early life stress
-
+---
 ## Research Funding
-+ 2021/12-2022/11, Principal Investigator. Analysis of cortisol in pressure test of Xiaomi wearable device, Peking University-Xiaomi Technology Co., LTD. Horizontal cooperation project, 53WE2116. 
-+ 2021/9-2023/8, Principal Investigator. Study on the relationship and intervention between family emotional expressiveness, emotion regulation and adolescents’ problem behavior. The Key Project of Scientific Research Program of Tianjin Education Commission (Mental Health Education), 2021ZDGX11
-+ 2017/11-2022/3, Principal Investigator. The influence of family environment on adolescent emotional regulation and problem behavior, The doctoral fund of Tianjin Normal University, 043-135202WW1713.
-+ 2017/07-2021/06, Principal Investigator. The influence of parental separation on the adolescents’ emotion regulation and problem behavior, The Philosophy and Social Sciences Planning Foundation of Tianjin, TJJXQN17-003.
-+ 2020/08-2023/10, Co-Investigator. The Role of Executive Function in Emotion Regulation and Training, The Philosophy and Social Sciences Planning Foundation of Tianjin, TJJXQN20-002.
-+ 2020/12-2023/11, Co-Investigator. A practical study of children's reading experience in life-themed books, Tianjin Humanities and Social Science Research Project, 2020SK037.
-+ 2019/01-2021/12, Co-Investigator. The relationship between reward sensitivity and the passion in sexual intimacy, National Natural Science Foundation of China, 31800943. 
-+ 2018/01-2020/12, Co-Investigator. The role of bottom-up processing and top-down processing in category specific attention capture, National Natural Science Foundation of China, 31700983. 
-+ 2015/01-2018/12, Co-Investigator. Epigenetic regulation of BDNF in schizophrenia-like cognitive dysfunction of rats induced by adolescent social isolation, National Natural Science Foundation of China, 31470988.
+1. 2021/12-2022/11, Principal Investigator. Analysis of cortisol in pressure test of Xiaomi wearable device, Peking University-Xiaomi Technology Co., LTD. Horizontal cooperation project, 53WE2116. 
+2. 2021/9-2023/8, Principal Investigator. Study on the relationship and intervention between family emotional expressiveness, emotion regulation and adolescents’ problem behavior. The Key Project of Scientific Research Program of Tianjin Education Commission (Mental Health Education), 2021ZDGX11
+3. 2017/11-2022/3, Principal Investigator. The influence of family environment on adolescent emotional regulation and problem behavior, The doctoral fund of Tianjin Normal University, 043-135202WW1713.
+4. 2017/07-2021/06, Principal Investigator. The influence of parental separation on the adolescents’ emotion regulation and problem behavior, The Philosophy and Social Sciences Planning Foundation of Tianjin, TJJXQN17-003.
+5. 2020/08-2023/10, Co-Investigator. The Role of Executive Function in Emotion Regulation and Training, The Philosophy and Social Sciences Planning Foundation of Tianjin, TJJXQN20-002.
+6. 2020/12-2023/11, Co-Investigator. A practical study of children's reading experience in life-themed books, Tianjin Humanities and Social Science Research Project, 2020SK037.
+7. 2019/01-2021/12, Co-Investigator. The relationship between reward sensitivity and the passion in sexual intimacy, National Natural Science Foundation of China, 31800943. 
+8. 2018/01-2020/12, Co-Investigator. The role of bottom-up processing and top-down processing in category specific attention capture, National Natural Science Foundation of China, 31700983. 
+9. 2015/01-2018/12, Co-Investigator. Epigenetic regulation of BDNF in schizophrenia-like cognitive dysfunction of rats induced by adolescent social isolation, National Natural Science Foundation of China, 31470988.
 ---
 ## Publications (*Corresponding author)
 1. Xu, H., Yuan, Y., Cai, J., He, L., Liu, J., **Li, M.** \*, Wang, W \*. (2022). Adverse Childhood Experiences-International Questionnaire (ACE-IQ) frequency scoring method modification and association of adversity pattern and trauma-related outcomes. Psychological Trauma: Theory, Research, Practice, and Policy. Under review
