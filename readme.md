@@ -6,25 +6,35 @@
 + Xiqing District,
 + Tianjin, China
 + Email Address: jykxliman@tjnu.edu.cn
+
+
 ---
 ## Academic Appointments
 + 2016-present     Lecturer
                 Faculty of Psychology, Tianjin Normal University
+
+
 ---
 ## Education and Training
 + 2018-2022   Postdoctoral Research Associate
             CAS Key Laboratory of Mental Health, Institute of Psychology
 + 2011-2016   Ph.D., School of Psychological and Cognitive Sciences, Peking University
 + 2007-2011   B.A., Department of Psychology, Qiqihar Medical University
+
+
 ---
 ## Teaching
 + Human Anatomy and Physiology
 + General Psychology
 + Physiological Psychology
+
+
 ---
 ## Research Interests
 + Early life experience effects (such as child-parent separation, parental mental illness, school bullying) on biological (eg: HPA axis) and behavioral functioning in adolescents 
 + The Neuroimmunological mechanisms of early life stress
+
+
 ---
 ## Research Funding
 1. 2021/12-2022/11, Principal Investigator. Analysis of cortisol in pressure test of Xiaomi wearable device, Peking University-Xiaomi Technology Co., LTD. Horizontal cooperation project, 53WE2116. 
@@ -36,6 +46,8 @@
 7. 2019/01-2021/12, Co-Investigator. The relationship between reward sensitivity and the passion in sexual intimacy, National Natural Science Foundation of China, 31800943. 
 8. 2018/01-2020/12, Co-Investigator. The role of bottom-up processing and top-down processing in category specific attention capture, National Natural Science Foundation of China, 31700983. 
 9. 2015/01-2018/12, Co-Investigator. Epigenetic regulation of BDNF in schizophrenia-like cognitive dysfunction of rats induced by adolescent social isolation, National Natural Science Foundation of China, 31470988.
+
+
 ---
 ## Publications (*Corresponding author)
 1. Xu, H., Yuan, Y., Cai, J., He, L., Liu, J., **Li, M.** \*, Wang, W \*. (2022). Adverse Childhood Experiences-International Questionnaire (ACE-IQ) frequency scoring method modification and association of adversity pattern and trauma-related outcomes. Psychological Trauma: Theory, Research, Practice, and Policy. Under review
@@ -60,12 +72,16 @@
 20. Shao, S., **Li, M.**, Du, W., Shao, F., & Wang, W.\* (2014). Galanthamine, an acetylcholine inhibitor, prevents prepulse inhibition deficits induced by adolescent social isolation or mk-801 treatment. Brain Research, 1589(1589), 105-111. 
 21. Xue, X., Shao, S., **Li, M.**, Feng, S., & Wang, W.\* (2013). Maternal separation induces alterations of serotonergic system in different aged rats. Brain Research Bulletin, 95(6), 15-20.
 22. Xue, X., **Li, M.**, Wang, W., & Feng, S.\* (2013). The animal model and neurobiological mechanisms of maternal separation. Advances in Psychological Science, 21(6), 990-998.
+
+
 ---
 ## Book chapters and Other Publications
 1. **Li, M.**, Xu, H., Li, L.(2021). A Psychological Cognition and Questionnaire Test Platform Based On Wechat program(V1.0). Software Copyright.
 2. **Li, M.**, Xu, Z.(2022). A Chinese Sentiment Analysis platform in Wechat Program(V1.0). Software Copyright.
 3. **Li, M.**, Yang, H., Xu, Z. (2021). A Predictive System For Psychological resilience Based On Text Analysis. Patent
 4. **Li, M.**, Wang, W. The Psychology of Emotion. People's Medical Publishing House. Chapter four: the physiological mechanism of emotion.
+
+
 ---
 ## Manuscripts in Preparation
 1. **Li, M.**, He, F., Qiu, L., Lan, Q., Zhang, C., Wang, L. (2022). Parasympathetic activity and mental health In Chinese adolescents: the role of parental migration
@@ -73,6 +89,8 @@
 3. **Li, M.**, Zhang, J., Wang, R., Xu, Z., Yang, H. (2022). Mental health of post-pandemic college freshmen: the role of childhood adversity, sense of security, and friendship quality.
 4. **Li, M.**,Yuan, Y., He, X., Xu, Z. (2022). The relationship between mobile phone addiction and time management disposition among college students: multiple mediators of sleep quality and cognitive flexibility 
 5. **Li, M.**, Yuan, Y., He, F., Duan, W., Zhang, C., Wang, L. (2022). Developmental changes in children's academic achievement in the context of COVID-19: the role of family and individual traits.
+
+
 ---
 ## Presentations
 1. **Li, M.**, Xu, T., Zhang, L., Wang, L. (2022).Negative family expressiveness and adolescents’ problems: the role of emotion regulation and RSA. The 7th National Conference on Emotional and Health Psychology. China, Xiamen
